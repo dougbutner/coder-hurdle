@@ -24,7 +24,7 @@ https://github.com/EOSIO/ual-reactjs-renderer
 ### Rules
 You may use ChatGPT (this is encouraged) and public repos, link public repos uses
 UI options must be free without pricing plans (no tailwind, etc)  
-You have 10 days from the start to complete. 
+You have 10 days from the start to complete.  
 If you need 5 wax to open a WAX account via mycloudwallet.com, please ask Alejandro
 
 
