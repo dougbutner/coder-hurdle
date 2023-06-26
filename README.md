@@ -7,7 +7,7 @@
 </center>
 
 ### About
-We’re looking for someone to help us build tools for our dapp cXc.world and be on the team for upcoming project Tetra. First place finisher that meets all requirements gets 500k COP, and a job offer to work with us in Medellin with option remote work after first month’s real-life meetings. All finishers will get 100 PURPLE (our cXc project token on WAX) currently worth about 50k COP
+We’re looking for someone to help us build tools for our dapp cXc.world and be on the team for upcoming project Tetra. First place finisher that meets all requirements gets 500k COP, and a job offer to work with us in Medellin with option remote work after first month’s real-life meetings. All finishers will get 100 [PURPLE](https://github.com/currentxchange/purple-explainer) (our cXc project token on WAX) currently worth about 50k COP
 
 ### Your Task
 Create and deploy an IPFS app that allows users to login and send a transaction on the WAX block chain. The application should have a dark-theme UI. There should be a landing page with a login, and a logged-in page that displays empty field and a button. The user should be able to input a WAX address in the field, and clock the button which creates a signing request for a eosio.token::transfer action with the `from` as the logged in account and the `to` as the account typed in. Please use WAX testnet. 
@@ -39,7 +39,7 @@ If you need 5 wax to open a WAX account via mycloudwallet.com, please ask Alejan
 - Look + Feel of use
 
 ### Submissions 
-> Submit a pull request to this repo with a link to your code on Github betweek the lined. If it is a private repo, invite collaborator @dougbutner
+> Submit a pull request to this repo with a link to your code on Github between the lines. If it is a private repo, invite collaborator @dougbutner
 
 `[Name of applicant](https://repo-github.link)`
 
