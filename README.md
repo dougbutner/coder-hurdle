@@ -12,6 +12,8 @@ We’re looking for someone to help us build tools for our dapp cXc.world and be
 ### Your Task
 Create and deploy an IPFS app that allows users to login and send a transaction on the WAX block chain. The application should have a dark-theme UI. There should be a landing page with a login, and a logged-in page that displays empty field and a button. The user should be able to input a WAX address in the field, and clock the button which creates a signing request for a eosio.token::transfer action with the `from` as the logged in account and the `to` as the account typed in. Please use [WAX testnet](https://testnet.waxblock.io/). 
 
+> You can use a solution like [Fleek](https://docs.fleek.co/) to deploy to IPFS. We will also accept submissions that are the un-deployed react app including the build.
+
 ### Required Tech
 - React
 - Waxjs   
