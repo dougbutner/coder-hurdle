@@ -16,7 +16,7 @@ Create and deploy an IPFS app that allows users to login and send a transaction 
 - React
 - Waxjs   
 https://github.com/worldwide-asset-exchange/waxjs  
-- Anchor UAL (using Anchor + My Cloud Wallet)
+- Anchor UAL (Anchor login required, My Cloud Wallet optional)
 https://github.com/EOSIO/ual-reactjs-renderer  
 - Bootstrap (optional) 
 
@@ -29,7 +29,7 @@ If you need 5 wax to open a WAX account via mycloudwallet.com, please ask Alejan
 
 
 ### Judging Criteria 
-- App has login screen with Anchor and My Cloud Wallet
+- App has login screen with working Anchor login via UAL
 - App has transaction screen seen only by logged-in users
 - Small size + low dependency
 - Quality of code
