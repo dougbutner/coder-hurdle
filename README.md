@@ -15,7 +15,7 @@ Create and deploy an IPFS app that allows users to login and send a transaction 
 > You can use a solution like [Fleek](https://docs.fleek.co/) to deploy to IPFS. We will also accept submissions that are the un-deployed react app including the build.
 
 ### Required Tech
-- React
+- Options: React, jQuery, no-framework. 
 - Waxjs   
 https://github.com/worldwide-asset-exchange/waxjs  
 - Anchor UAL (Anchor login required, My Cloud Wallet optional)
